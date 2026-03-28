@@ -12,13 +12,13 @@ const Resume = () => {
                 className="w-full h-full"
             >
                 <iframe
-                    src="/resume.pdf#toolbar=0&navpanes=0&scrollbar=0"
+                    src="/MohitFinalCv%20(1)%20(1).pdf#toolbar=0&navpanes=0&scrollbar=0"
                     title="Resume PDF"
                     className="w-full h-full border-none"
                 />
 
                 <a
-                    href="/resume.pdf"
+                    href="/MohitFinalCv%20(1)%20(1).pdf"
                     download="Mohit_Kumar_Resume.pdf"
                     className="absolute top-20 right-8 bg-primary hover:bg-violet-700 text-white px-6 py-3 rounded-full font-bold shadow-2xl transition-all duration-300 flex items-center gap-2 transform translate-y-0 opacity-100 z-50 hover:scale-105"
                 >

@@ -55,6 +55,8 @@ const About = () => {
                         <GithubStats />
                     </div>
 
+
+
                 </motion.div>
             </div>
         </section>

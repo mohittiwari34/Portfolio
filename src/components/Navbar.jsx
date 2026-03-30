@@ -20,6 +20,7 @@ const Navbar = () => {
         { name: 'About', to: 'about', type: 'scroll', path: '/' },
         { name: 'Skills', to: 'skills', type: 'scroll', path: '/' },
         { name: 'Projects', to: 'projects', type: 'scroll', path: '/' },
+        { name: 'Certificates', to: 'certificates', type: 'scroll', path: '/' },
         { name: 'Resume', to: '/resume', type: 'route' },
         { name: 'Blog', to: '/blog', type: 'route' },
         { name: 'Contact', to: 'contact', type: 'scroll', path: '/' },

@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import GithubStats from './GithubStats';
+import LeetcodeStats from './LeetcodeStats';
 
 const About = () => {
     return (
@@ -55,7 +56,11 @@ const About = () => {
                         <GithubStats />
                     </div>
 
-
+                    {/* LeetCode Stats */}
+                    <div className="mt-16">
+                        <h3 className="text-2xl font-bold mb-6 text-center text-slate-900 dark:text-white">LeetCode Activity</h3>
+                        <LeetcodeStats />
+                    </div>
 
                 </motion.div>
             </div>
